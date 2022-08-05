@@ -25,3 +25,6 @@ THEN I am taken to the corresponding section of the README
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
+
+# Screen recording of project
+[Click here](https://drive.google.com/file/d/1MmUBGu1g9sN_MWbGdlG5FRnfN6vK_OAO/view)

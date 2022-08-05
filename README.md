@@ -3,7 +3,8 @@
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
 # Description
- ## GIVEN a command-line application that accepts user input
+ ## (as seen on bootcampspot)
+GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 WHEN I enter my project title
@@ -20,6 +21,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 # User story
-## AS A developer
+## (as seen on bootcamp spot)
+AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
